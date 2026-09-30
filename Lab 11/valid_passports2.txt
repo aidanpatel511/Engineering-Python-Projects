@@ -1,0 +1,76 @@
+hgt:185cm pid:871945454
+iyr:2020
+hcl:#866857 ecl:amb
+byr:1989 cid:184 eyr:2030
+
+hgt:158cm
+eyr:2030 iyr:2016 byr:1969
+cid:173 pid:092921211 hcl:#602927 ecl:grn
+
+hcl:#623a2f
+byr:1951 pid:993284548
+cid:106
+hgt:186cm
+ecl:amb iyr:2017 eyr:2029
+
+hcl:#6b5442 pid:265747619 hgt:191cm
+cid:217
+eyr:2028
+iyr:2019 ecl:amb
+byr:1948
+
+eyr:2028
+byr:1951
+pid:239781647 iyr:2020 hgt:156cm
+ecl:hzl cid:215 hcl:#efcc98
+
+pid:636605355 ecl:hzl
+iyr:2017 cid:323 eyr:2025
+byr:1995
+hcl:#18171d hgt:187cm
+
+iyr:2016 cid:252 eyr:2030 hcl:#888785
+hgt:177cm ecl:grn byr:2002 pid:568715162
+
+iyr:2018 pid:183728523 byr:1924 hgt:154cm eyr:2030
+cid:167 ecl:blu hcl:#ceb3a1
+
+eyr:2026 hgt:159cm
+byr:1946 pid:534291476
+iyr:2018 ecl:gry cid:225
+hcl:#18171d
+
+pid:439665905
+cid:311 ecl:amb iyr:2018
+eyr:2030
+hgt:186cm byr:1950
+hcl:#cfa07d
+
+pid:250175056 hcl:#efcc98
+byr:1981 cid:262 hgt:154cm ecl:gry iyr:2020 eyr:2027
+
+hcl:#733820 byr:1979 pid:838168666
+hgt:190cm ecl:oth cid:330
+eyr:2029 iyr:2018
+
+hcl:#efcc98 iyr:2016 hgt:186cm cid:215
+pid:852781253 eyr:2027 ecl:blu byr:1937
+
+byr:1973
+hgt:150cm
+pid:905076707
+iyr:2017
+hcl:#2edf01 ecl:oth cid:221 eyr:2026
+
+cid:350
+eyr:2029 pid:823592758 iyr:2018
+ecl:grn byr:1972 hgt:167cm hcl:#18171d
+
+hcl:#623a2f
+hgt:182cm cid:154
+pid:873863966 iyr:2018 byr:1999 ecl:brn eyr:2031
+
+eyr:2030 hcl:#602927 cid:105 byr:1943 ecl:hzl
+pid:381601507
+hgt:188cm iyr:2020
+
